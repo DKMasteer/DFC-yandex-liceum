@@ -76,3 +76,6 @@ for test, answer in zip(tests, answers):
 
 ## **Спасибо за внимание!**
 Теперь можете переходить к анализу решения ;)
+
+## **Оригинал решения с весами моделей (GitHub не загрузил)**
+https://drive.google.com/drive/folders/1T-6WSqXIXOe4cpt7Io2sfFLIb5l7QfSG?usp=sharing
